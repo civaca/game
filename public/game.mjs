@@ -16,7 +16,7 @@ let bearImage = new Image()
 let background= new Image()
     background.src='./public/back.jpg'
 let coinImage = new Image()
-    coinImage.src='./public/coin.png'
+    coinImage.src='./public/coin1.png'
 
 let players; 
 let coinClient;
